@@ -1,0 +1,10 @@
+C:\Users\Dominik Husák\source\repos\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.csproj.AssemblyReference.cache
+C:\Users\Dominik Husák\source\repos\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik Husák\source\repos\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.AssemblyInfoInputs.cache
+C:\Users\Dominik Husák\source\repos\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.AssemblyInfo.cs
+C:\Users\Dominik Husák\source\repos\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.csproj.CoreCompileInputs.cache
+C:\Škola\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.csproj.AssemblyReference.cache
+C:\Škola\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Škola\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.AssemblyInfoInputs.cache
+C:\Škola\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.AssemblyInfo.cs
+C:\Škola\Cviceni14.11\Cviceni14.11\obj\Debug\net6.0\Cviceni14.11.csproj.CoreCompileInputs.cache
